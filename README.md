@@ -8,8 +8,10 @@
 ------------
 
 제주과학고 정보 동아리 [COMMON](https://github.com/COMMON-Jshs)에서
-* 제곽 학교생활 웹 사이트
-* 제곽 학교생활 API
-* 제곽 학교생활 라이브러리
+* [제곽 학교생활 웹 사이트](https://github.com/VriskaSerket51/menkakusitsu-front)
+* [제곽 학교생활 API](https://github.com/VriskaSerket51/menkakusitsu-back)
+* [제곽 학교생활 라이브러리](https://github.com/VriskaSerket51/menkakusitsu-lib)
 * 제곽 파일 공유 서버
 를 개발했습니다.
+
+
