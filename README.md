@@ -7,4 +7,5 @@
   <img style="flex: 1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VriskaSerket51&layout=compact&hide_border=true" />
   <img style="flex: 1;" src="https://github-profile-trophy.vercel.app/?username=VriskaSerket51&column=3" />
 </div>
----
+
+------
