@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 170" role="img" aria-labelledby="title desc">
+  <title id="title">IREVES</title>
+  <desc id="desc">짙은 파란 배경에 노란 별과 푸른 곡선.</desc>
+  <rect width="800" height="170" fill="#102b50"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M400 171C449 130 488 159 522 134S583 107 640 124S743 156 800 107" stroke="#193e6a" stroke-width="20"/>
+    <path d="M440 173C493 147 510 175 560 145S617 130 660 141S752 157 801 127" stroke="#2a5381" stroke-width="4"/>
+    <path d="M537 42C570 3 667 9 676 63C683 112 593 116 585 72C579 38 639 32 644 60C647 81 615 90 607 72" stroke="#2c6091" stroke-width="12"/>
+    <path d="M535 38C579-10 681 10 684 63C688 117 587 126 576 75C567 30 648 20 655 61C660 90 614 103 601 77" stroke="#5e91af" stroke-width="2"/>
+    <path d="M503 53C541-7 655-13 704 30" stroke="#254b77" stroke-width="5"/>
+  </g>
+  <g fill="#d9b949" opacity=".18">
+    <circle cx="741" cy="43" r="24"/>
+    <circle cx="491" cy="91" r="14"/>
+    <circle cx="708" cy="111" r="10"/>
+  </g>
+  <g fill="#edd276">
+    <circle cx="741" cy="43" r="10"/>
+    <circle cx="491" cy="91" r="5"/>
+    <circle cx="708" cy="111" r="3"/>
+    <circle cx="550" cy="24" r="2"/>
+    <circle cx="777" cy="134" r="2"/>
+    <circle cx="436" cy="34" r="2"/>
+  </g>
+  <text x="38" y="107" fill="#f0e6c9" font-family="Georgia, 'Times New Roman', serif" font-size="56" letter-spacing="2">IREVES</text>
+</svg>
